@@ -1,0 +1,19 @@
+.time {
+  text-align: center;
+  padding: 30px;
+  /* background-color: #cf3232; */
+}
+
+.time h3 {
+  font-size: 28px;
+  border-bottom: 5px solid;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+
+.time .torcedor {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}

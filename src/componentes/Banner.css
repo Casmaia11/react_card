@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+.banner {
+  background-color: #103358;
+  text-align: center;
+}
+
+.banner img {
+  max-width: 5%;
+  display: flex;
+  align-items: end;
+  margin-left: 13%;
+}
